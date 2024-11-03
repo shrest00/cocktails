@@ -5,14 +5,14 @@ $(document).ready(function () {
           ingredients: "Milk, Cream, Sugar, Eggs",
           recipe: "1 cup milk, 1/2 cup cream, whisk with 2 eggs and sugar. Serve chilled.",
           calories: 223,
-          image: "images/eggnog.jpg"
+          image: "images/Eggnog.jpg"
       },
       {
           name: "Cranberry Spritzer",
           ingredients: "Cranberry Juice, Sparkling Water, Lime",
           recipe: "Mix 1 cup cranberry juice, 1 cup sparkling water, garnish with lime.",
           calories: 90,
-          image: "images/cranberry-spritzer.jpg"
+          image: "images/Cranberry-Spritzer.jpg"
       },
       {
           name: "Spiked Hot Cocoa",
@@ -26,14 +26,14 @@ $(document).ready(function () {
           ingredients: "Pumpkin Puree, Apple Cider, Cinnamon",
           recipe: "Mix 1/2 cup pumpkin puree, 1 cup apple cider, sprinkle cinnamon.",
           calories: 130,
-          image: "images/pumpkin-punch.jpg"
+          image: "images/Pumpkin-Punch.jpg"
       },
       {
           name: "Minty Mocktail",
           ingredients: "Mint, Lime, Ginger Ale",
           recipe: "Muddle mint, add lime juice, top with ginger ale.",
           calories: 80,
-          image: "images/minty-mocktail.jpg"
+          image: "images/Minty-Mocktail.jpg"
       }
   ];
 
